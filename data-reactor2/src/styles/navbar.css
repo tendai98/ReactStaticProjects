@@ -1,0 +1,44 @@
+nav{
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 18px;
+}
+
+.navbar-icon {
+    width: 40px;
+    margin-left: 15px;
+}
+
+.navbar-name {
+    display: flex;
+    margin-left: 15px;
+    color: #5046ca;
+    font-style: italic;
+}
+
+.name-1{
+    font-weight: 10;
+}
+
+.name-2{
+    margin-left: 5px;
+}
+
+.navbar-options{
+    display: flex;
+    margin-left: 200px;
+}
+
+.navbar-options > h2 {
+    margin-left: 40px;
+    font-style: italic;
+    font-weight: 10;
+    color: #9694f4;
+}
+
+.navbar-menu{
+    width: 40px;
+    height: 40px;
+    margin-left: 170px;
+}

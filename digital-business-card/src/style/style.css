@@ -1,0 +1,22 @@
+body {
+    font-family: Inter, sans-serif;
+    margin:0;
+    background: #1E1F26;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #292B35;
+}
+
+.nav-title {
+    margin-right: auto;
+    padding-left: 10px;
+    color: #3DD1F1
+}
+
+.nav-home, .nav-contact, .nav-about {
+    margin-right: 10px;
+    color: #BEF1FC
+}

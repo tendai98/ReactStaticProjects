@@ -1,0 +1,11 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background: #ffb9dd;
+}
+
+.sub-body{
+    background: #F9CEE5;
+    width: 530px;
+    height: 700px;
+    border-radius: 14px;
+}

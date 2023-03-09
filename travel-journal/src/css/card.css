@@ -1,0 +1,50 @@
+.card-main{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 16px;
+    height: 200px;
+    background: white;
+    display: flex;
+}
+
+.card-pic {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 190px;
+    height: 180px;
+    border-radius: 11px;
+}
+
+.card-info{
+    margin-left: 10px;
+}
+
+.card-top-header{
+    margin: 0;
+    margin-top: -15px;
+    display: flex;
+    font-size: 18px;
+}
+
+.card-google-maps-tag{
+    color: #BDBABA;
+    margin-left: 90px;
+}
+
+.card-location {
+    margin-top: -20px;
+}
+
+.card-dates {
+    color: #7C7474;
+    margin-top: -20px;
+}
+
+.card-country{
+    width: 50px;
+}
+
+.card-brief{   
+    width: 280px;
+}

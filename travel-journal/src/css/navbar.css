@@ -1,0 +1,19 @@
+.nav-main {
+    display: flex;
+    background: #F839A0;
+    height:60px;
+    border-radius: 14px 14px 0px 0px;
+}
+
+.nav-icon {
+    margin-top: 10px;
+    margin-left: 165px;
+    width: 40px;
+    height: 40px;
+}
+
+.nav-header {
+    color: white;
+    margin-top: 15px;
+    margin-left: 5px;
+}

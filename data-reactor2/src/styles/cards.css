@@ -1,0 +1,133 @@
+.cards-panel {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.card {
+    margin-left: 30px;
+    width: 290px;
+    height: 200px;
+    background: #ffffff;
+    box-shadow: 4px 4px 40px #c6dff3, 0px 4px 4px rgba(0,0,0,0.25);
+    border-radius: 14px;
+}
+
+
+.card-header{
+    display: flex;
+    margin-left: 20px;
+}
+
+.card-title{
+    font-family: Inter;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 400;
+    width: 150px;
+}
+
+.card-icon{
+    width: 40px;
+    height: 40px;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+
+.card-line{
+    position: relative;
+    bottom: -45px;
+    border: 1px solid #b1e0f3;   
+}
+
+.card-counter{
+    position: relative;
+    top:-40px;
+    font-family: Inter;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 77px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+
+.progress-bar {
+    position: relative;
+    top:-100px;
+}
+
+.progress-bar-faint {
+    width: 240px;
+    height: 10px;
+    margin-left: 25px;
+    border-radius: 18px;
+    background: #acd3f3;
+}
+
+.progress-bar-solid {
+    position: relative;
+    top: -10px;
+    width: 160px;
+    height: 10px;
+    margin-left: 25px;
+    border-radius: 18px;
+    background: #38a0f5;
+}
+
+.response-rate {
+    position: relative;
+    top:-125px;
+    margin-left: 25px;   
+}
+
+.card-topic-1 {
+    font-weight: 400;
+    position: relative;
+    top:-125px;
+    margin-left: 25px;   
+}
+
+.card-topic-2 {
+    font-weight: 400;
+    position: relative;
+    top:-150px;
+    margin-left: 25px;   
+}
+
+.pop-element {
+    position: relative;
+    top:-180px;
+    left:145px;
+    width: 80px;
+}
+
+.pop-value {
+    position: relative;
+    top:-240px;
+    left:169px;
+    width: 80px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.pop-element-2 {
+    position: relative;
+    top:-220px;
+    left:145px;
+    width: 80px;
+}
+
+.pop-value-2 {
+    position: relative;
+    top:-280px;
+    left:169px;
+    width: 80px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
